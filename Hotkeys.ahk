@@ -2,5 +2,5 @@
 
 ^!t:: 
 {
-    Run "wt -w 0 new-tab"
+    Run "alacritty"
 }
