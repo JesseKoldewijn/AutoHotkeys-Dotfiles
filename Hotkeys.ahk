@@ -2,5 +2,5 @@
 
 ^!t:: 
 {
-    Run "alacritty --working-directory %USERPROFILE%/"
+    Run "alacritty --working-directory %USERPROFILE%"
 }
